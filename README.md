@@ -29,28 +29,36 @@ Passionnée par l’IA, j’aime explorer la frontière entre les **mathématiqu
 ## Projets réalisés  
 ### 1. CinéMind — AI for Movie Review Analysis
 **Objectif :** apprendre la représentation du langage, la classification de texte et le fine-tuning léger.
+
 **Compétences clés :**
 - Prétraitement du texte (tokenization, stopwords, lemmatisation)
 - Représentation vectorielle (Word2Vec, GloVe, embeddings Transformers)
 - Classification supervisée (SVM, Logistic Regression, petit réseau de neurones)
 - Fine-tuning d’un modèle pré-entraîné (DistilBERT)
 - Interface Streamlit pour tester le modèle
+- 
 **Exemple concret :** Analyse de critiques de films (IMDB)
+  
 **Résultat :** comparaison entre Word2Vec + logistic regression et DistilBERT fine-tuné.
+
 **Lien GitHub :** _à venir_ 
 
 ---
 
 ### 2. Générateur de texte / Chatbot spécialisé avec Transformers
 **Objectif :** explorer l’IA générative (GPT, T5, Falcon) et adapter un modèle pré-entraîné à un domaine spécifique.
+
 **Exemple concret :** TravelGPT — un chatbot qui répond à des questions de voyage personnalisées.
+
 **Compétences clés :**
 - Prompt engineering
 - Fine-tuning / LoRA sur un mini-corpus
 - Contrôle du ton, du style et du contenu généré
 - Évaluation (perplexity, BLEU, ROUGE)
 - Interface Streamlit avec historique de conversation
-**Lien GitHub :** _à venir_  
+- 
+**Lien GitHub :** _à venir_
+  
 **Résultat :** un mini-chatbot intelligent, déployé sur Streamlit.
 
 ---
