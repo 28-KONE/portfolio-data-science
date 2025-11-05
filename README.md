@@ -27,22 +27,31 @@ Passionnée par l’IA, j’aime explorer la frontière entre les **mathématiqu
 ---
 
 ## Projets réalisés  
-
-### 1. Prédiction de la consommation énergétique  
-**Objectif :** développer un modèle de prévision horaire de la consommation d’énergie à partir de données publiques (météo, historique de consommation, calendrier).  
-**Techniques :** séries temporelles (SARIMA, LSTM), Feature Engineering, Streamlit dashboard.  
-**Données :** [Open Data RTE France](https://opendata.rte-france.com/).  
-**Lien GitHub :** _à venir_  
-**Résultat :** amélioration de 12 % de la précision par rapport au modèle de référence.
+### 1. CinéMind — AI for Movie Review Analysis
+**Objectif :** apprendre la représentation du langage, la classification de texte et le fine-tuning léger.
+**Compétences clés :**
+- Prétraitement du texte (tokenization, stopwords, lemmatisation)
+- Représentation vectorielle (Word2Vec, GloVe, embeddings Transformers)
+- Classification supervisée (SVM, Logistic Regression, petit réseau de neurones)
+- Fine-tuning d’un modèle pré-entraîné (DistilBERT)
+- Interface Streamlit pour tester le modèle
+**Exemple concret :** Analyse de critiques de films (IMDB)
+**Résultat :** comparaison entre Word2Vec + logistic regression et DistilBERT fine-tuné.
+**Lien GitHub :** _à venir_ 
 
 ---
 
-### 2. Détection d’anomalies sur images industrielles  
-**Objectif :** concevoir un modèle CNN/Autoencoder capable d’identifier les défauts sur des images de pièces mécaniques.  
-**Techniques :** Deep Learning (CNN, Autoencoder), OpenCV, PyTorch.  
-**Données :** [MVTec Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad/).  
+### 2. Générateur de texte / Chatbot spécialisé avec Transformers
+**Objectif :** explorer l’IA générative (GPT, T5, Falcon) et adapter un modèle pré-entraîné à un domaine spécifique.
+**Exemple concret :** TravelGPT — un chatbot qui répond à des questions de voyage personnalisées.
+**Compétences clés :**
+- Prompt engineering
+- Fine-tuning / LoRA sur un mini-corpus
+- Contrôle du ton, du style et du contenu généré
+- Évaluation (perplexity, BLEU, ROUGE)
+- Interface Streamlit avec historique de conversation
 **Lien GitHub :** _à venir_  
-**Résultat :** AUC = 0.93 sur le jeu de test.
+**Résultat :** un mini-chatbot intelligent, déployé sur Streamlit.
 
 ---
 
