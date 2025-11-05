@@ -54,12 +54,6 @@ sentiment_analysis/
 ---
 
 ## Installation
-
-#### Cloner le dépôt
-git clone https://github.com/28-KONE/portfolio-data-science.git
-
-cd sentiment_analysis
-
 #### Installer les dépendances
 pip install -r requirements.txt
 
@@ -97,6 +91,7 @@ streamlit run streamlit_app.py
 - Comparaison claire entre Word2Vec + Logistic Regression et DistilBERT fine-tuné
 - Une interface interactive pour tester le modèle
 - Une architecture reproductible et modulaire
+
 
 
 
