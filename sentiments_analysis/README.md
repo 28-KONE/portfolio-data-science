@@ -25,17 +25,29 @@ sentiment_analysis/
 │   ├── download_data.py
 
 │   ├── preprocess.py
+
 │   ├── train_word2vec.py
+
 │   ├── train_classifier.py
+
 │   ├── finetune_transformer.py
+
 │   └── evaluate.py
+
 │
+
 ├── models/                 # Modèles enregistrés (Word2Vec, DistilBERT)
+
 ├── data/                   # Données brutes et prétraitées
+
 ├── notebooks/              # Expérimentations et visualisations
+
 ├── utils.py                # Fonctions utilitaires
+
 ├── streamlit_app.py        # Interface utilisateur
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -45,6 +57,7 @@ sentiment_analysis/
 
 #### Cloner le dépôt
 git clone https://github.com/28-KONE/portfolio-data-science.git
+
 cd sentiment_analysis
 
 #### Installer les dépendances
@@ -56,14 +69,21 @@ python -m spacy download en_core_web_sm
 ## Utilisation
 
 1️⃣ Préparer et entraîner les modèles
+
 python scripts/download_data.py
+
 python scripts/preprocess.py
+
 python scripts/train_word2vec.py
+
 python scripts/train_classifier.py
+
 python scripts/finetune_transformer.py
+
 python scripts/evaluate.py
 
 2️⃣ Lancer l’application Streamlit
+
 streamlit run streamlit_app.py
 
 ## Technologies
@@ -77,6 +97,7 @@ streamlit run streamlit_app.py
 - Comparaison claire entre Word2Vec + Logistic Regression et DistilBERT fine-tuné
 - Une interface interactive pour tester le modèle
 - Une architecture reproductible et modulaire
+
 
 
 
