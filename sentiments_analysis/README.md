@@ -1,4 +1,4 @@
-# 🎬 CinéMind — AI for Movie Review Analysis")
+# 🎬 CinéMind — AI for Movie Review Analysis
 ## Comparer les performances entre Word2Vec et DistilBERT sur des critiques de films
 ## Objectif
 Ce projet vise à construire un modèle capable de déterminer si une critique de film est **positive** ou **négative**.  
@@ -91,6 +91,7 @@ streamlit run streamlit_app.py
 - Comparaison claire entre Word2Vec + Logistic Regression et DistilBERT fine-tuné
 - Une interface interactive pour tester le modèle
 - Une architecture reproductible et modulaire
+
 
 
 
