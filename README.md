@@ -17,7 +17,7 @@ Passionnée par l’IA, j’aime explorer la frontière entre les **mathématiqu
 | Domaine | Compétences clés |
 |----------|-----------------|
 | **Langages** | Python, SQL, R, SAS, MATLAB, C, C++, JAVA |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly |
 | **Machine / Deep Learning** | TensorFlow, PyTorch, XGBoost, LightGBM, RidgeBayesian, Optuna (tuning) |
 | **NLP (Traitement du Langage Naturel)** | NLTK, spaCy, Gensim (Word2Vec), Hugging Face Transformers (DistilBERT, BERT), Tokenizers, LoRA |
 | **IA générative** | GPT, T5, LangChain, Prompt Engineering, Fine-tuning |
