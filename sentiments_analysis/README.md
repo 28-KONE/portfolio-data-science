@@ -16,10 +16,14 @@ Il illustre la transition entre les **représentations classiques du langage (Wo
 ---
 
 ## Structure
-sentiment_analysis/ //
+sentiment_analysis/ 
+
 │
+
 ├── scripts/                # Scripts d'entraînement et d'évaluation
+
 │   ├── download_data.py
+
 │   ├── preprocess.py
 │   ├── train_word2vec.py
 │   ├── train_classifier.py
@@ -73,6 +77,7 @@ streamlit run streamlit_app.py
 - Comparaison claire entre Word2Vec + Logistic Regression et DistilBERT fine-tuné
 - Une interface interactive pour tester le modèle
 - Une architecture reproductible et modulaire
+
 
 
 
