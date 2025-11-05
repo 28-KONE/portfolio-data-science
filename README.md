@@ -18,11 +18,12 @@ Passionnée par l’IA, j’aime explorer la frontière entre les **mathématiqu
 |----------|-----------------|
 | **Langages** | Python, SQL, R, SAS, MATLAB, C, C++, JAVA |
 | **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
-| **Machine / Deep Learning** | TensorFlow, PyTorch, XGBoost, LightGBM, RidgeBayesian |
-| **IA générative / NLP** | Transformers, BERT, LangChain |
+| **Machine / Deep Learning** | TensorFlow, PyTorch, XGBoost, LightGBM, RidgeBayesian, Optuna (tuning) |
+| **NLP (Traitement du Langage Naturel)** | NLTK, spaCy, Gensim (Word2Vec), Hugging Face Transformers (DistilBERT, BERT), Tokenizers, LoRA |
+| **IA générative** | GPT, T5, LangChain, Prompt Engineering, Fine-tuning |
 | **Big Data** | Spark, Hadoop, SQL, ETL |
 | **Déploiement / MLOps** | Streamlit, Git, CI/CD |
-| **Outils & IDE** | VS Code, Jupyter, GitHub, Linux, Bash |
+| **Outils & IDE** | VS Code, Jupyter Notebook/Lab, Linux (Bash), Anaconda, Google Colab, GitHub |
 
 ---
 
@@ -36,7 +37,7 @@ Passionnée par l’IA, j’aime explorer la frontière entre les **mathématiqu
 - Classification supervisée (SVM, Logistic Regression, petit réseau de neurones)
 - Fine-tuning d’un modèle pré-entraîné (DistilBERT)
 - Interface Streamlit pour tester le modèle
-- 
+  
 **Exemple concret :** Analyse de critiques de films (IMDB)
   
 **Résultat :** comparaison entre Word2Vec + logistic regression et DistilBERT fine-tuné.
@@ -56,7 +57,7 @@ Passionnée par l’IA, j’aime explorer la frontière entre les **mathématiqu
 - Contrôle du ton, du style et du contenu généré
 - Évaluation (perplexity, BLEU, ROUGE)
 - Interface Streamlit avec historique de conversation
-- 
+  
 **Lien GitHub :** _à venir_
   
 **Résultat :** un mini-chatbot intelligent, déployé sur Streamlit.
